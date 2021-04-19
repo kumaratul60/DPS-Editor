@@ -1,5 +1,21 @@
 # Getting Started with Create React App
 
+React ->  React is a  an open-source JavaScript library created by Facebook for building complex, interactive UIs in web and mobile applications.  React’s core purpose is focused on building UI components, it is necessarily different than a lot of other JavaScript frameworks.
+
+How React works -> React creates a virtual DOM. When state changes in a component it firstly runs a "diffing" algorithm, which identifies what has changed in the virtual DOM. The second step is "reconciliation", where it updates the DOM with the results of diff.
+
+
+
+
+• Developed a web app containing doc, pdf, spredsheet editor using concept of syncfusion,and
+Material-UI.
+
+• Use router concept from this user can land on own
+choice editor with in 1 sec without reloading page.
+
+• User can perform CRUD operation and save in
+drive.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
