@@ -6,7 +6,6 @@ How React works -> React creates a virtual DOM. When state changes in a componen
 
 
 
-
 • Developed a web app containing doc, pdf, spredsheet editor using concept of syncfusion,and
 Material-UI.
 
