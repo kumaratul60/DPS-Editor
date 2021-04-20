@@ -25,18 +25,18 @@ Snapshots of the project 👇
 ![Alt Text](snap1.png?raw=true "Title")
 
 
-Snapshots of the project 👇
+Snapshots of the PDF editor 👇
 ![Alt Text](snap2.png?raw=true "Title")
 
 
 
 
-Snapshots of the project 👇
+Snapshots of the DOC editort 👇
 ![Alt Text](snap3.png?raw=true "Title")
 
 
 
-Snapshots of the project 👇
+Snapshots of the Spread-sheet editor 👇
 ![Alt Text](snap4.png?raw=true "Title")
 
 //This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
