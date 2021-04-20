@@ -31,7 +31,7 @@ Snapshots of the PDF editor 👇
 
 
 
-Snapshots of the DOC editort 👇
+Snapshots of the DOC editor 👇
 ![Alt Text](snap3.png?raw=true "Title")
 
 
