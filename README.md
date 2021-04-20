@@ -6,7 +6,7 @@ How React works -> React creates a virtual DOM. When state changes in a componen
 
 
 
-• Developed a web app containing doc, pdf, spredsheet editor using concept of syncfusion,and
+• Developed a Single Page Application (SPA)(https://en.wikipedia.org/wiki/Single-page_application) web app containing doc, pdf, spredsheet editor using concept of syncfusion,and
 Material-UI.
 
 • Use router concept from this user can land on own
