@@ -39,7 +39,7 @@ Snapshots of the DOC editor 👇
 Snapshots of the Spread-sheet editor 👇
 ![Alt Text](snap4.png?raw=true "Title")
 
-//This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
